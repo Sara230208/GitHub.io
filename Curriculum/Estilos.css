@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+}
+
+header p{
+    color: rgb(128, 103, 197);
+}
+
+section{
+    margin-bottom: 25px;
+}
+
+h2{
+    color: lightpink;
+    border-bottom: 1px solid lightskyblue;
+}
